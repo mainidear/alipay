@@ -3,7 +3,6 @@
 # 运行环境:jdk1.6及以上
 # 当面付2.0demo使用前必读
 
-
 # 直接运行demo步骤如下(eclipse直接导入工程即可):
 1、请先确认zfbinfo.properties配置文件是否已配置完成
 2、运行Main.java中的main方法
